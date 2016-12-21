@@ -27,7 +27,7 @@
 
 [user]
 	name = Esther Nam
-	email = esther.nam@openx.com
+	email = esther.nam@gmail.com
 [core]
 	editor = vim
 	excludesfile = /Users/esther.nam/.gitignore_global
